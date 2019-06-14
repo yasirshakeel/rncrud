@@ -1,0 +1,3 @@
+rootProject.name = 'rnapp_mgr_01'
+
+include ':app'
